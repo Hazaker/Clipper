@@ -1,0 +1,9 @@
+BTC = '3Kv9QErw7ddEEa3VBT9ZAPcvlktRPE7YDa' # Bitcoin
+ETH = '0xE219f0A0165bC5F157fADdaz490E7365C2D04fAd' # Ethereum
+ETHBEP2 = 'bnb1ktfn0zvttpnm0jgabe5cygtj2urltdjnw7xrcv' # Ethereum BEP-2
+LTC = 'ltc1q6fg43whzphtp6dyl62fdrnk09jp9ddf6ga6sal' # Litecoin
+DASH = 'Xj2zmtwqYag4xsjVkSzfSd09HQ1c9hkd8J' # Dash
+DOGE = 'DPisLcPHMrde9yCGpB8vUG7mvQY5EHbCs0' # Dogecoin
+RIPPLE = 'rshvnxLDE9Jsm8sJxPxct425HhQA0tk5XV' # Ripple
+TRON = 'TDtR8ww84jHne6QtFo5cjjzhrv6QAqjWx9' # Tron
+BTCCASH = 'bitcoincash:qqy7z7xadm8dlze0mwnavml2fm5hjdaezxu90gm6g1' # Bitcoincash
